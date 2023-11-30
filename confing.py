@@ -1,7 +1,7 @@
 
 
 
-TOKEN = '6341126346:AAFCDUScyVHodSvSfYvn9z2PM2rcI4Cwbus'
+TOKEN = 'ТOKEN BOT'
 
 
 keys = {
